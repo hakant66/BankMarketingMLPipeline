@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter and Spyder
+.ipynb_checkpoints/
+.spyderproject
+.spyproject/
+
+# Spark temp data/logs
+metastore_db/
+spark-warehouse/
+.derby/
+
+# Output files
+output/
