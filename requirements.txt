@@ -1,0 +1,4 @@
+pyspark==3.4.1
+py4j==0.10.9.7
+pandas
+matplotlib
